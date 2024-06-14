@@ -1,1 +1,1 @@
-<h3>Welcome to the Daily LeetCode Solutions repository! This repository contains my daily solutions to various LeetCode problems. The goal of this repository is to document my coding practice, improve problem-solving skills, and share solutions with the community.</h3>
+<h3>Welcome to the LeetCode Solutions repository! This repository contains my LEETCODE solutions to various problems. The goal of this repository is to document my coding practice, improve problem-solving skills, and share solutions with the community.</h3>
